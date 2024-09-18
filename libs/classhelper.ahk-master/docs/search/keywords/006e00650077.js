@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("new",["Function"],[["newFromJSON",,[[,,,,0,"File:export.ahk:newFromJSON"]]],["newFromString",,[[,,,,0,"File:export.ahk:newFromString"]]]]);
