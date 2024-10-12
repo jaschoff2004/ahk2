@@ -21,4 +21,4 @@ Also, it's certainly possible that I missed a lib here or there, let me know if 
 - Whr.ahk: simple little wrapper class, nothing new.
 - WinUserHeader.ahk: I had such grand inital designs for this one too, just like DevToolsProtocol_Full.ahk. I worked on them both in in support of wv2Client.ahk
 - wv2Client.ahk: just what it sounds like, the intent here was to build a framework allowing for standarized seemless sever/client interaction.  Still interested in this concept, more planning is need I think.  Another exploration effort on my part.
-- Utility.ahk: Collection of various utilities I use frequently, and is a lib I use pretty much by default in most new projects.
+- utils.ahk: Collection of various utilities I use frequently, and is a lib I use pretty much by default in most new projects.
