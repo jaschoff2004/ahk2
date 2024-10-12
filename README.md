@@ -1,5 +1,5 @@
 # ahk2 utilities, libs, prototypes, and exploration
-A mix of in mostly functional tools authord by others, with my own adaptations and e few of my own. Be aware that some are in flux, while others need significant work to realize intented deature sets.  I have a tendancy to jump around between efforts a fair amount.  Anyway please use or improve if you like, or if appropriate certainly point out where I have gone wrong. I'm always open to feedback!  
+A mix of mostly functional tools authord by others, with my own adaptations and e few of my own. Be aware that some are in flux, while others need significant work to realize intented deature sets.  I have a tendancy to jump around between efforts a fair amount.  Anyway please use or improve if you like, or if appropriate certainly point out where I have gone wrong. I'm always open to feedback!  
 
 Also, it's certainly possible that I missed a lib here or there, let me know  if I did and I'll dig it up.
 
